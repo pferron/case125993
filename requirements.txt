@@ -1,6 +1,6 @@
 # Install pytorch 2.01 + latest apex, refer to the readme of this repo
 numpy==1.25.0
-aim==3.17.2
+aim==3.24.0
 pydantic
 jsonlines
 datasets
